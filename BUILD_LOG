@@ -1,0 +1,58 @@
+Scanning dependencies of target MQTTSNPacketServer
+[  2%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketServer.dir/MQTTSNConnectServer.c.o
+[  5%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketServer.dir/MQTTSNPacket.c.o
+[  7%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketServer.dir/MQTTSNSearchServer.c.o
+[ 10%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketServer.dir/MQTTSNSubscribeServer.c.o
+[ 13%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketServer.dir/MQTTSNUnsubscribeServer.c.o
+[ 15%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketServer.dir/MQTTSNSerializePublish.c.o
+[ 18%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketServer.dir/MQTTSNDeserializePublish.c.o
+[ 21%] Linking C shared library libMQTTSNPacketServer.so
+[ 21%] Built target MQTTSNPacketServer
+Scanning dependencies of target MQTTSNPacketClient
+[ 23%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketClient.dir/MQTTSNConnectClient.c.o
+[ 26%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketClient.dir/MQTTSNPacket.c.o
+[ 28%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketClient.dir/MQTTSNSearchClient.c.o
+[ 31%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketClient.dir/MQTTSNSubscribeClient.c.o
+[ 34%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketClient.dir/MQTTSNUnsubscribeClient.c.o
+[ 36%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketClient.dir/MQTTSNSerializePublish.c.o
+[ 39%] Building C object MQTTSNPacket/src/CMakeFiles/MQTTSNPacketClient.dir/MQTTSNDeserializePublish.c.o
+[ 42%] Linking C shared library libMQTTSNPacketClient.so
+[ 42%] Built target MQTTSNPacketClient
+Scanning dependencies of target qos0pub_register
+[ 44%] Building C object MQTTSNPacket/samples/CMakeFiles/qos0pub_register.dir/qos0pub_register.c.o
+[ 47%] Building C object MQTTSNPacket/samples/CMakeFiles/qos0pub_register.dir/transport.c.o
+[ 50%] Linking C executable qos0pub_register
+[ 50%] Built target qos0pub_register
+Scanning dependencies of target qos0pub
+[ 52%] Building C object MQTTSNPacket/samples/CMakeFiles/qos0pub.dir/qos0pub.c.o
+[ 55%] Building C object MQTTSNPacket/samples/CMakeFiles/qos0pub.dir/transport.c.o
+[ 57%] Linking C executable qos0pub
+[ 57%] Built target qos0pub
+Scanning dependencies of target qos-1pub
+[ 60%] Building C object MQTTSNPacket/samples/CMakeFiles/qos-1pub.dir/qos-1pub.c.o
+[ 63%] Building C object MQTTSNPacket/samples/CMakeFiles/qos-1pub.dir/transport.c.o
+[ 65%] Linking C executable qos-1pub
+[ 65%] Built target qos-1pub
+Scanning dependencies of target qos1pub
+[ 68%] Building C object MQTTSNPacket/samples/CMakeFiles/qos1pub.dir/qos1pub.c.o
+[ 71%] Building C object MQTTSNPacket/samples/CMakeFiles/qos1pub.dir/transport.c.o
+[ 73%] Linking C executable qos1pub
+[ 73%] Built target qos1pub
+Scanning dependencies of target qos-1pub_extended
+[ 76%] Building C object MQTTSNPacket/samples/CMakeFiles/qos-1pub_extended.dir/qos-1pub_extended.c.o
+[ 78%] Building C object MQTTSNPacket/samples/CMakeFiles/qos-1pub_extended.dir/transport.c.o
+[ 81%] Linking C executable qos-1pub_extended
+[ 81%] Built target qos-1pub_extended
+Scanning dependencies of target pub0sub1
+[ 84%] Building C object MQTTSNPacket/samples/CMakeFiles/pub0sub1.dir/pub0sub1.c.o
+[ 86%] Building C object MQTTSNPacket/samples/CMakeFiles/pub0sub1.dir/transport.c.o
+[ 89%] Linking C executable pub0sub1
+[ 89%] Built target pub0sub1
+Scanning dependencies of target test2
+[ 92%] Building C object MQTTSNPacket/test/CMakeFiles/test2.dir/test2.c.o
+[ 94%] Linking C executable test2
+[ 94%] Built target test2
+Scanning dependencies of target test1
+[ 97%] Building C object MQTTSNPacket/test/CMakeFiles/test1.dir/test1.c.o
+[100%] Linking C executable test1
+[100%] Built target test1
